@@ -1,1 +1,2 @@
-archivo txt de prueba en asuna > cosas git
+archivo txt de prueba en Asuna en > cosas git
+working dir > index > head 
