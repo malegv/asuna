@@ -1,3 +1,8 @@
 archivo txt de prueba en Asuna en > cosas git
+<<<<<<< HEAD
 working dir > index > head 
 male:vamos a crear un conflicto
+=======
+working dir > index > head
+esta linea es de fer
+>>>>>>> 59a4bfefb0ff09e709d2d57fba7a79f20c76735e
