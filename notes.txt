@@ -5,3 +5,4 @@ working dir > index > head
 esta linea es de fer
 otra linea de fer
 LINEA DE CONFLICTO ferchin
+-> domingo
