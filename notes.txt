@@ -4,5 +4,5 @@ male:vamos a crear un conflicto
 working dir > index > head
 esta linea es de fer
 otra linea de fer
-LINEA DE CONFLICTO 123
+LINEA DE CONFLICTO 123 + ferchin
 -> domingo
